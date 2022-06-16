@@ -1,0 +1,6 @@
+- Frontend: trong thư mục frontend_web chạy lệnh: npm install, sau đó chạy: npm run dev
+- Backend: trong thư mục backend_web, chạy lệnh: npm install, sau đó chạy: node index.js
+- Database: 
+          + Đăng nhập mongodb, tạo database và bấm connect để lấy URI của database
+          + Thay URI của database vào file .env trong thư mục backend_web
+          + Chạy lại backend

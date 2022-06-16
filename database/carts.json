@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "627bd10c6299075fc7214597"
+  },
+  "userId": "626fefb6321b8a505bf499e9",
+  "productId": "626ff71d321b8a505bf49a77",
+  "quantity": 1,
+  "title": "Vans SK8-HI",
+  "img": "https://images.vans.com/is/image/Vans/VN000D5IB8C-HERO?hei=700&wid=700&qlt=85",
+  "color": "Black/White",
+  "size": "45",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1652281612259"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1652281612259"
+    }
+  },
+  "__v": 0
+}]

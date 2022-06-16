@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "62679eec692cd1f800d78acf"
+  },
+  "title": "Nike Airmax 2021",
+  "desc": "This '80s hoops icon is ripe for the picking. Creamy, dreamy, avocado-inspired colours and details are combined with premium leather, plush cushioning and a low-cut collar. The result? Sneakers that up your shoe game with lasting comfort and throwback style.",
+  "img": [
+    "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d5174e97-cc30-4044-bb74-70e536304183/air-max-2021-older-shoes-dRthcp.png",
+    "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d5174e97-cc30-4044-bb74-70e536304183/air-max-2021-older-shoes-dRthcp.png"
+  ],
+  "categories": "nike",
+  "size": "40",
+  "color": "Xanh Đen",
+  "price": 149,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650958060412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651505771996"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626838d214d84e2de84213a3"
+  },
+  "title": "Nike ZoomX Vaporfly NEXT% 2 Ekiden",
+  "desc": "This '80s hoops icon is ripe for the picking. Creamy, dreamy, avocado-inspired colours and details are combined with premium leather, plush cushioning and a low-cut collar. The result? Sneakers that up your shoe game with lasting comfort and throwback style.",
+  "img": [
+    "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d222e2b3-ab84-44f3-9708-6e9015e83d6f/zoomx-vaporfly-next-2-ekiden-road-racing-shoes-9FXr0Z.png",
+    "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d222e2b3-ab84-44f3-9708-6e9015e83d6f/zoomx-vaporfly-next-2-ekiden-road-racing-shoes-9FXr0Z.png"
+  ],
+  "categories": "nike",
+  "size": "40",
+  "color": "Trắng",
+  "price": 150,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650997458224"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651506008925"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268cff15f88494c7db36ef0"
+  },
+  "title": "Nike Air Force 1 LV8",
+  "desc": "This '80s hoops icon is ripe for the picking. Creamy, dreamy, avocado-inspired colours and details are combined with premium leather, plush cushioning and a low-cut collar. The result? Sneakers that up your shoe game with lasting comfort and throwback style.",
+  "img": [
+    "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/eca4550c-c46a-4c6f-b15c-74e1c7844782/air-force-1-lv8-older-shoes-fbBQLr.png",
+    "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/eca4550c-c46a-4c6f-b15c-74e1c7844782/air-force-1-lv8-older-shoes-fbBQLr.png"
+  ],
+  "categories": "nike",
+  "size": "40",
+  "color": "Trắng",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036145723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651506022631"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6268d0625f88494c7db36ef5"
+  },
+  "title": "Nike Air Jordan 1 Mid SE",
+  "desc": "This '80s hoops icon is ripe for the picking. Creamy, dreamy, avocado-inspired colours and details are combined with premium leather, plush cushioning and a low-cut collar. The result? Sneakers that up your shoe game with lasting comfort and throwback style.",
+  "img": [
+    "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/45d6ecd3-4c7d-41ca-b328-b3aeb896b5e2/air-jordan-1-mid-se-shoes-bwRXft.png",
+    "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/45d6ecd3-4c7d-41ca-b328-b3aeb896b5e2/air-jordan-1-mid-se-shoes-bwRXft.png"
+  ],
+  "categories": "nike",
+  "size": "40",
+  "color": "Xám Trắng",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651036258544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651506031322"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ff71d321b8a505bf49a77"
+  },
+  "title": "Vans SK8-HI",
+  "desc": "The Sk8-Hi was introduced in 1978 as Style 38, and showcased the now-iconic Vans Sidestripe on a new, innovative high top silhouette. As only the second model featuring the recognizable marker formerly known as the “jazz stripe,” the Sk8-Hi brought a whole new look to the Vans family.  Honoring that first legendary high top, the Sk8-Hi is made with sturdy suede and canvas uppers in a variety of classic and unexpected colorways. This lace-up shoe also includes re-enforced toe caps, supportive padded collars, and signature rubber waffle outsoles.",
+  "img": [
+    "https://images.vans.com/is/image/Vans/VN000D5IB8C-HERO?hei=700&wid=700&qlt=85",
+    "https://images.vans.com/is/image/Vans/VN000D5IB8C-ALT2?hei=1600&wid=1600&qlt=85"
+  ],
+  "categories": "vans",
+  "size": "45",
+  "color": "Black/White",
+  "price": 200,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651504925487"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651504925487"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ff7b9321b8a505bf49a8b"
+  },
+  "title": "Vans MIXED DYE SK8-HI 38 DX PW",
+  "desc": "Mixed Dye Sk8-Hi 38 DX Pw",
+  "img": [
+    "https://images.vans.com/is/image/Vans/VN0A54FBAXJ-HERO?hei=700&wid=700&qlt=85",
+    "https://images.vans.com/is/image/Vans/VN0A54FBAXJ-ALT2?hei=700&wid=700&qlt=85"
+  ],
+  "categories": "vans",
+  "size": "39",
+  "color": "MULTI/TRUE WHITE",
+  "price": 499,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651505081101"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651505081101"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ff83f321b8a505bf49aa6"
+  },
+  "title": "Vans ECO THEORY SK8-HI TAPERED",
+  "desc": "Eco Theory Sk8-Hi Tapered",
+  "img": [
+    "https://images.vans.com/is/image/Vans/VN0A4U16ASW-HERO?hei=700&wid=700&qlt=85",
+    "https://images.vans.com/is/image/Vans/VN0A4U16ASW-ALT2?hei=700&wid=700&qlt=85"
+  ],
+  "categories": "vans",
+  "size": "43",
+  "color": "Yellow",
+  "price": 100,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651505215203"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651505215203"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626ff899321b8a505bf49aba"
+  },
+  "title": "Vans SK8-HI TAPERED STACKED",
+  "desc": "Sk8-Hi Tapered Stacked • Upgraded with a 42 mm platform height",
+  "img": [
+    "https://images.vans.com/is/image/Vans/VN0005U2ZEL-ALT1?hei=700&wid=700&qlt=85",
+    "https://images.vans.com/is/image/Vans/VN0005U2ZEL-ALT3?hei=700&wid=700&qlt=85"
+  ],
+  "categories": "vans",
+  "size": "44",
+  "color": "UV INK SUNWAVES",
+  "price": 299,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651505305467"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651505305467"
+    }
+  },
+  "__v": 0
+}]
